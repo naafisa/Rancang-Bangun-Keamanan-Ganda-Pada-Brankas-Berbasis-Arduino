@@ -6,13 +6,13 @@ Alat ini bekerja dengan cara memanfaatkan dua buah pengaman, yakni yang pertama 
 
 ​Komponen yang digunakan pada proyek:
 1. Papan tombol 16x4
-2. Pembaca RFID
-3.Kartu RFID
-4. Kunci Pintu Solenoid
-5. Relai
-6. LDC I2C
-7. Bel
-8.Arduino Uno.
+2. Pembaca RFID 
+3. RFID Card
+5. Kunci Pintu Solenoid
+6. Relai
+7. LDC I2C
+8. Bel
+9.  Arduino Uno
 
 Diagram  Block alat 
 ![image](https://user-images.githubusercontent.com/122041231/211178705-f608cad3-9773-4bdb-81b1-e1ed08be53e4.png)
