@@ -1,5 +1,5 @@
-# Rancang-Bangun-Keamanan-Ganda-Pada-Brankas-Berbasis-Arduino
-Rancang Bangun Keamanan Ganda Pada Brankas Berbasis 
+# Rancang-Bangun-Keamanan-Ganda-Pada-Brankas-Berbasis-Arduino 
+Rancang Bangun Keamanan Ganda Pada Brankas Berbasis  Arduino  
 
 Alat ini bekerja dengan cara memanfaatkan dua buah pengaman, yakni yang pertama dengan menempelkan kartu RFID lalu data ditransfer ke Arduino, jika kartu tidak terdeteksi maka mengulang dari awal, namun jika scan kartu berhasil maka akan lanjut ke tahap selanjutnya yaitu memasukkan pin melalui keypad yang telah tersedia, jika berhasil maka pintu terbuka dan jika salah memasukkan password buzzer akan berbunyi dan mengulang untuk memasukkan password. Jika pasword sudah benar maka selenoid akan bekerja untuk membuka pintu brankas. Kemudian pintu akan terbuka dan LED akan hidup.  
 
