@@ -20,5 +20,7 @@ Diagram  Block alat
 Diagram Pengawatan
 ![image](https://user-images.githubusercontent.com/122041231/211178719-2616906a-ecf7-4135-8176-f2f7a39d19cd.png)
 
+Diagram alir
+![image](https://user-images.githubusercontent.com/122041231/211179009-67bb06a0-5be3-45b6-aebb-ffaaeb324500.png)
 
 
